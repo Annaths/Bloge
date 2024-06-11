@@ -1,0 +1,62 @@
+
+body   { 
+    background-image: 
+            url("../Wolke.png"),	
+         linear-gradient(rgb(245, 169, 222), rgb(176, 155, 177));
+    background-position: 0px 20px;
+    background-repeat: repeat-x;
+    animation: wind 10s linear infinite;		
+ }
+
+ 
+ navigation {
+    float:left;
+    width:25%;
+    padding:2%;
+    }
+   
+ inhalt {
+    float:right;
+    width:65%;
+    padding:3%;
+   bilder img{
+        width:40%;
+        }
+        
+h1 {
+    color: rgb(243, 199, 243);
+    letter-spacing: 20px;
+    }
+    h1 {
+        border: thin solid;
+        padding: 0.25em;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: max-content;
+        text-align: center;
+    }
+
+      
+    
+      #classcard {
+        margin-top: 0 !important;
+      }
+      p {
+        font-family: "Century Gothic"; text-align: center;
+    }
+    #card {
+        box-align: margin-left;
+    }
+
+    p2 {
+        text-align: left;  }
+
+
+
+
+
+.bilder{
+    width: 100%;
+    
+
+}

@@ -1,0 +1,14 @@
+
+body   { 
+    background-image: 
+            url("../Wolke.png"),	
+         linear-gradient(rgb(64, 145, 165), rgb(127, 146, 228));
+    background-position: 0px 20px;
+    background-repeat: repeat-x;
+    animation: wind 10s linear infinite;		
+ }
+
+bilder {
+   min-width: 15%;
+   margin: 50%;
+}

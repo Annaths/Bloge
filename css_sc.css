@@ -1,0 +1,10 @@
+.amsterdam{
+    display: block;
+    text-align: center;
+}
+body   { 
+    background-image: 	
+         linear-gradient(rgba(105, 62, 82, 0.397), rgb(176, 155, 177));
+    background-position: 0px 20px;
+    background-repeat: repeat-x;
+    animation: wind 10s linear infinite;
